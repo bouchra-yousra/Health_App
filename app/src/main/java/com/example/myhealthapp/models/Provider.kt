@@ -47,4 +47,20 @@ public class Provider{
 
     }
 
+    fun fetchObjectifs(){
+
+    }
+
+    fun fetchExercices(){
+
+    }
+
+    fun fetchUser(){
+
+    }
+
+    fun fetchActivities(){
+
+    }
+
 }
